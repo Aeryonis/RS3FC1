@@ -1,14 +1,14 @@
 {
 	"appName": "RS3 Friends Chat",
 	"description": "This app will list Friends Chats",
-	"appUrl": "https://aeryonis.github.io/RS3FC1/",
+	"appUrl": "https://aeryonis.github.io/RS3FC1",
 	"configUrl": "https://aeryonis.github.io/RS3FC1/appconfig.json",
 	"iconUrl": "icon24x24.ico",
 	"defaultWidth": 517,
 	"defaultHeight": 619,
-	"minWidth": 100,
-	"minHeight": 50,
-	"requestHandlers": [ ],
-	"appFrame": "default",
-	"permissions": "pixel,overlay,gamestate"
+	"minWidth": 330,
+	"minHeight": 108,
+   	"requestHandlers": [],
+   	"activators": [],
+   	"permissions": "overlay"
 }
